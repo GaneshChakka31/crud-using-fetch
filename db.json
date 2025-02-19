@@ -1,0 +1,44 @@
+{
+  "student": [
+    {
+      "name": "mohan",
+      "email": "g@gmail.com",
+      "age": "23",
+      "mobile": "7854219632",
+      "location": "bikavolu",
+      "gender": "Male",
+      "bgp": "B-",
+      "id": "06e1"
+    },
+    {
+      "id": "c1ed",
+      "name": "manikanta",
+      "email": "m@gmail.com",
+      "age": "24",
+      "mobile": "1236547896",
+      "location": "mdp",
+      "gender": "Male",
+      "bgp": "A+"
+    },
+    {
+      "id": "4fb6",
+      "name": "ganesh",
+      "email": "g@gmail.com",
+      "age": "23",
+      "mobile": "7418529631",
+      "location": "mdp",
+      "gender": "Male",
+      "bgp": "B+"
+    },
+    {
+      "id": "a31e",
+      "name": "venkatesh",
+      "email": "v@gmail.com",
+      "age": "24",
+      "mobile": "7412369853",
+      "location": "mdp",
+      "gender": "Male",
+      "bgp": "A+"
+    }
+  ]
+}
